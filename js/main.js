@@ -85,7 +85,7 @@ console.log("dewdslider");
     };
 
     var ssFinalCountdownNew = setInterval(function() {
-        var countDownDate = new Date("Feb 19, 2022 10:36:00").getTime();
+        var countDownDate = new Date("Mar 19, 2022 10:00:00").getTime();
           // Get today's date and time
           console.log("dewd");
           var now = new Date().getTime();
